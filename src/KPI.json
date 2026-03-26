@@ -4,19 +4,19 @@
       "id": "PSM11",
       "displayName": "PSM11",
       "kpis": [
-        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
-        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
-        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
-        { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
+        { "id": "oee", "displayName": "% OEE", "current": 65,08, "target": 65 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 1,39, "target": 1 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 33300, "target": "" },
+        { "id": "equipes", "displayName": "Equipes", "current": 26, "target": "" }
       ]
     },
     {
       "id": "PSM12",
       "displayName": "PSM12",
       "kpis": [
-        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
-        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
-        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
+        { "id": "oee", "displayName": "% OEE", "current": 72,32, "target": 65 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 1,1, "target": 1 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 55505, "target": "" },
         { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
       ]
     },
@@ -36,10 +36,10 @@
       "id": "MAB1",
       "displayName": "MAB1",
       "kpis": [
-        { "id": "oee", "displayName": "% OEE", "current": 10, "target": 20 },
-        { "id": "rebuts", "displayName": "% Rebuts", "current": 10, "target": 1 },
-        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 10000, "target": "" },
-        { "id": "equipes", "displayName": "Equipes", "current": 100, "target": "" }
+        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
+        { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
       ]
     },
 
@@ -69,10 +69,10 @@
       "id": "LFP5",
       "displayName": "LFP5",
       "kpis": [
-        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
-        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
-        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
-        { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
+        { "id": "oee", "displayName": "% OEE", "current": 68,68, "target": 72 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 2,02, "target": 2,1 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 408162, "target": "" },
+        { "id": "equipes", "displayName": "Equipes", "current": 56,88, "target": "" }
       ]
     },
 
@@ -80,10 +80,10 @@
       "id": "LFP6",
       "displayName": "LFP6",
       "kpis": [
-        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
-        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
-        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
-        { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
+        { "id": "oee", "displayName": "% OEE", "current": 64,83, "target": 67,5 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 2,43, "target": 2 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 189010, "target": "" },
+        { "id": "equipes", "displayName": "Equipes", "current": 29,52, "target": "" }
       ]
     },
 
@@ -91,10 +91,10 @@
       "id": "LFP9",
       "displayName": "LFP9",
       "kpis": [
-        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
-        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
-        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
-        { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
+        { "id": "oee", "displayName": "% OEE", "current": 71,28, "target": 63 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 1,95, "target": 2,5 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 252060, "target": "" },
+        { "id": "equipes", "displayName": "Equipes", "current": 39,42, "target": "" }
       ]
     },
 
@@ -102,10 +102,10 @@
       "id": "ARI2012",
       "displayName": "ARI2012",
       "kpis": [
-        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
-        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
-        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
-        { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
+        { "id": "oee", "displayName": "% OEE", "current": 64,05, "target": 60 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 1,25, "target": 1,5 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 178506, "target": "" },
+        { "id": "equipes", "displayName": "Equipes", "current": 23,41, "target": "" }
       ]
     },
 
@@ -113,10 +113,10 @@
       "id": "ARI2009",
       "displayName": "ARI2009",
       "kpis": [
-        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
-        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
-        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
-        { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
+        { "id": "oee", "displayName": "% OEE", "current": 55,2, "target": 55 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 2,56, "target": 2,5 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 215033, "target": "" },
+        { "id": "equipes", "displayName": "Equipes", "current": 36,9, "target": "" }
       ]
     },
 
