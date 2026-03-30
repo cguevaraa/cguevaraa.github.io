@@ -139,6 +139,26 @@
         { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
         { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
       ]
+    },
+    {
+      "id": "LFP13",
+      "displayName": "LFP13",
+      "kpis": [
+        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
+        { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
+      ]
+    },
+    {
+      "id": "LFP14",
+      "displayName": "LFP14",
+      "kpis": [
+        { "id": "oee", "displayName": "% OEE", "current": 0, "target": 0 },
+        { "id": "rebuts", "displayName": "% Rebuts", "current": 0, "target": 0 },
+        { "id": "quantiteBonne", "displayName": "Quantité Bonne", "current": 0, "target": "" },
+        { "id": "equipes", "displayName": "Equipes", "current": 0, "target": "" }
+      ]
     }
   ]
 }
